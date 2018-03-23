@@ -7,7 +7,7 @@ package brighamp6;
 
 /**
  *
- * @author WSBRI
+ * @author william brigham
  */
 public class test {
     
